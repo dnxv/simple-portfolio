@@ -25,9 +25,7 @@ function Intro() {
         Welcome to my portfolio! I'm a Master's student 
         studying Computer Science.
         Some of my projects include AI/machine learning, 
-        computer vision, robotics, and web development.
-
-
+        computer vision, robotics, and web dev.
       </p>
 
     </div>
