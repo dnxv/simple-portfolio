@@ -1,7 +1,7 @@
 export default [
   {
     title: 'Terminal Website',
-    imgUrl: 'src/assets/smaller-detection.png',
+    imgUrl: '/assets/smaller-detection.png',
     stack: ['HTML', 'CSS', 'JavaScript'],
     link: 'https://fkcodes.com',
   },
