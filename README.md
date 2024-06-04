@@ -53,7 +53,8 @@ https://fonts.google.com/?query=inter
 ## Dark mode
 ```
 # edit App.jsx
-- import React, { useEffect, useState } from 'react';
+- import effects
+- 
 
 
 ```
