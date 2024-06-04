@@ -16,7 +16,7 @@ npm run dev
 # localhost link
 ```
 
-## Step 1: command line
+## Step 1: setup project
 ```
 npm create vite@latest
 >> project_name
@@ -48,4 +48,12 @@ https://fonts.google.com/?query=inter
 
 # delete /src/App.css
 # edit/rename index.css into /styles/tailwind.css
+```
+
+## Dark mode
+```
+# edit App.jsx
+- import React, { useEffect, useState } from 'react';
+
+
 ```
