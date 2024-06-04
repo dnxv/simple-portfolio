@@ -44,7 +44,7 @@ Error generating stack: `+o.message+`
       mb-1     md:mb-3`,children:"Dave.dev"}),P.jsx("p",{className:`text-base font-medium
       md:text-xl
       mb-3`,children:"Software Engineer, Robotics, AI/Machine Learning"}),P.jsx("p",{className:`text-sm max-w-xl font-bold
-      mb-6`,children:"Welcome to my portfolio! I'm a Master's student studying Computer Science. Some of my projects include AI/machine learning, computer vision, robotics, and web dev."})]})}const Od=[{title:"Terminal Website",imgUrl:"src/assets/smaller-detection.png",stack:["HTML","CSS","JavaScript"],link:"https://fkcodes.com"},{title:"Developer Portfolio",imgUrl:"",stack:["React","Tailwind","Vite"],link:""},{title:"Drone Simulation",imgUrl:"",stack:["Linux","Python","Gazebo Sim","ArduPilot"],link:""}];function Md({title:e,imgUrl:n,stack:t,link:r}){return P.jsxs("div",{className:`border-2 border-stone-900
+      mb-6`,children:"Welcome to my portfolio! I'm a Master's student studying Computer Science. Some of my projects include AI/machine learning, computer vision, robotics, and web dev."})]})}const Od=[{title:"Terminal Website",imgUrl:"/assets/smaller-detection.png",stack:["HTML","CSS","JavaScript"],link:"https://fkcodes.com"},{title:"Developer Portfolio",imgUrl:"",stack:["React","Tailwind","Vite"],link:""},{title:"Drone Simulation",imgUrl:"",stack:["Linux","Python","Gazebo Sim","ArduPilot"],link:""}];function Md({title:e,imgUrl:n,stack:t,link:r}){return P.jsxs("div",{className:`border-2 border-stone-900
     rounded-md overflow-hidden`,children:[P.jsx("img",{src:n,alt:"portfolio",className:`w-full 
       h-36 md:h-48
       object-cover cursor-pointer`}),P.jsxs("div",{className:"w-full p-4",children:[P.jsx("h3",{className:`
