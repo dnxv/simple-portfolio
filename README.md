@@ -18,6 +18,12 @@ npm run dev
 # localhost link
 ```
 
+## Building
+```
+npm run build
+npm run preview
+```
+
 ## Step 1: setup project
 ```
 npm create vite@latest

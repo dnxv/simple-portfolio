@@ -43,19 +43,20 @@ function Contact() {
             className="p-2 mb-4
             bg-transparent
             border-2 rounded-md
-            focus:outline-none" />
+            focus:outline-none" 
+          />
 
-            <button
-              type="button"
-              className="text-center inline-block
-              px-8 py-3 w-max 
-              text-base font-medium text-white
-              rounded-md 
-              bg-gradient-to-r from-purple-500 to-indigo-500
-              drop-shadow-md hover:stroke-white"
-              >
-                Work With Me
-            </button>
+          <button
+            type="submit"
+            className="text-center inline-block
+            px-8 py-3 w-max 
+            text-base font-medium text-white
+            rounded-md 
+            bg-gradient-to-r from-purple-500 to-indigo-500
+            drop-shadow-md hover:stroke-white"
+            >
+              Work With Me
+          </button>
         </form>
       </div>
     </div>
