@@ -80,7 +80,7 @@ Error generating stack: `+i.message+`
     justify-center 
     my-20`,children:C.jsxs("div",{className:"w-full md:w-7/12",children:[C.jsx(nc,{children:"Timeline"}),Dd.map(e=>C.jsx(Fd,{year:e.year,title:e.title,duration:e.duration,details:e.details}))]})})}function Ad(){return C.jsx("div",{className:`flex flex-col
       mb-10 mx-auto`,children:C.jsx("div",{className:`flex justify-center
-        items-center`,children:C.jsxs("form",{action:"https://formsubmit.co/davidc461@outlook.com",method:"POST",className:`flex flex-col
+        items-center`,children:C.jsxs("form",{action:"https://formsubmit.co/df72543b4dacbf8514b66b5388c64530",method:"POST",className:`flex flex-col
           w-full md:w-7/12`,children:[C.jsx("input",{type:"hidden",name:"_captcha",value:"false"}),C.jsx(nc,{children:"Contact"}),C.jsx("input",{type:"text",name:"name",placeholder:"Name",className:`p-2 bg-transparent
             border-2 rounded-md
             focus:outline-none`}),C.jsx("input",{type:"text",name:"email",placeholder:"Email",className:`my-2 p-2 bg-transparent
