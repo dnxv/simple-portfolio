@@ -1,3 +1,5 @@
+https://dnxv.github.io/simple-portfolio/
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -48,6 +50,11 @@ https://fonts.google.com/?query=inter
 
 # delete /src/App.css
 # edit/rename index.css into /styles/tailwind.css
+```
+
+## Github Pages
+```
+src: https://www.youtube.com/watch?v=Bk28snjHr7c
 ```
 
 ## Dark mode
