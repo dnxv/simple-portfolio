@@ -8,11 +8,17 @@ function Contact() {
       <div className="flex justify-center
         items-center">
         <form 
-          action="https://getform.io/slug"
+          action="https://formsubmit.co/davidc461@outlook.com"
           method="POST"
           className="flex flex-col
-          w-full md:w-7/12"
-        >
+          w-full md:w-7/12">
+
+          {/* Honeypot*/}
+          <input type="text" name="_honey" style="display: none;"></input>
+
+          {/* Disable Captcha */}
+          <input type="hidden" name="_captcha" value="false"></input>
+
           <Title>Contact</Title>
           <input 
             type="text" 
