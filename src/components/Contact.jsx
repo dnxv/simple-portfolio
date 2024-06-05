@@ -8,7 +8,7 @@ function Contact() {
       <div className="flex justify-center
         items-center">
         <form 
-          action="https://formsubmit.co/davidc461@outlook.com"
+          action="https://formsubmit.co/df72543b4dacbf8514b66b5388c64530"
           method="POST"
           className="flex flex-col
           w-full md:w-7/12">
