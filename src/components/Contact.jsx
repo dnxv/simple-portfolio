@@ -13,11 +13,11 @@ function Contact() {
           className="flex flex-col
           w-full md:w-7/12">
 
-          {/* Honeypot*/}
-          <input type="text" name="_honey" style="display: none;"></input>
+          {/* Honeypot didnt work*/}
+          {/* <input type="text" name="_honey" style="display: none;" /> */}
 
           {/* Disable Captcha */}
-          <input type="hidden" name="_captcha" value="false"></input>
+          <input type="hidden" name="_captcha" value="false" />
 
           <Title>Contact</Title>
           <input 
