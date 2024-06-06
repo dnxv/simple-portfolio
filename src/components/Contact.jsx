@@ -28,28 +28,34 @@ function Contact() {
             name="name"
             placeholder="Name"
             className="p-2 bg-transparent
+            placeholder:text-neutral-500
             border-2 rounded-md
+            border-neutral-500
             focus:outline-none
-            dark:border-neutral-600"
+            dark:border-neutral-400"
           />
           <input 
             type="text" 
             name="email"
             placeholder="Email"
             className="my-2 p-2 bg-transparent
+            placeholder:text-neutral-500
             border-2 rounded-md
+            border-neutral-500
             focus:outline-none
-            dark:border-neutral-600"
+            dark:border-neutral-400"
           />
           <textarea 
             name="message" 
             placeholder="Message"
             rows="10"
             className="p-2 mb-4
+            placeholder:text-neutral-500
             bg-transparent
             border-2 rounded-md
+            border-neutral-500
             focus:outline-none
-            dark:border-neutral-600" 
+            dark:border-neutral-400" 
           />
 
           <button

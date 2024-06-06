@@ -4,15 +4,16 @@ function TimelineItem({year, title, duration, details}) {
   return (
     <ol className="flex flex-col
     md:flex-col relative 
-    border-l border-stone-200
+    border-l 
+    border-stone-700
     dark:border-stone-700">
     {/* vertical line under circle: border-l border-stone-200  */}
 
       <li className="mb-10 ml-4">
         <div className="absolute 
-        w-3 h-3 bg-stone-200 rounded-full
+        w-3 h-3 bg-stone-700 rounded-full
         mt-1.5 -left-1.5 
-        border border-white
+        border border-stone-700
         dark:border-stone-900 dark:bg-stone-700" />
         {/* cirle: w-3 h-3 bg-stone-200 rounded-full  */}
 
@@ -23,7 +24,7 @@ function TimelineItem({year, title, duration, details}) {
           <span className="inline-block
           px-2 py-1 
           font-semibold text-white
-          bg-stone-900 rounded-md
+          bg-neutral-800 rounded-md
           dark:text-white
           dark:bg-neutral-800">
             {year}
