@@ -6,6 +6,9 @@ export default {
     extend: {
       fontFamily: {
         inter: ['inter', 'serif']
+      },
+      colors: {
+        'matte-black': 'rgb(17 19 19)',
       }
     },
   },

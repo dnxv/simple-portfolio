@@ -19,6 +19,9 @@ function Contact() {
           {/* Disable Captcha */}
           <input type="hidden" name="_captcha" value="false" />
 
+          {/* Redirect */}
+          <input type="hidden" name="_next" value="https://dnxv.github.io/simple-portfolio/" />
+
           <Title>Contact</Title>
           <input 
             type="text" 
@@ -26,7 +29,8 @@ function Contact() {
             placeholder="Name"
             className="p-2 bg-transparent
             border-2 rounded-md
-            focus:outline-none"
+            focus:outline-none
+            dark:border-neutral-600"
           />
           <input 
             type="text" 
@@ -34,7 +38,8 @@ function Contact() {
             placeholder="Email"
             className="my-2 p-2 bg-transparent
             border-2 rounded-md
-            focus:outline-none"
+            focus:outline-none
+            dark:border-neutral-600"
           />
           <textarea 
             name="message" 
@@ -43,7 +48,8 @@ function Contact() {
             className="p-2 mb-4
             bg-transparent
             border-2 rounded-md
-            focus:outline-none" 
+            focus:outline-none
+            dark:border-neutral-600" 
           />
 
           <button

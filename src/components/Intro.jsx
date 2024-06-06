@@ -8,7 +8,8 @@ function Intro() {
       
       <h1 className="font-bold 
       text-4xl md:text-7xl 
-      mb-1     md:mb-3">
+      mb-1     md:mb-3
+      dark:text-white">
         Dave.dev
       </h1>
 
@@ -21,7 +22,8 @@ function Intro() {
 
       {/*  max-w-xl: max-width-36rem  */}
       <p className="text-sm max-w-xl font-bold
-      mb-6">
+      mb-6
+      dark:text-neutral-450">
         Welcome to my portfolio! I'm a Master's student 
         studying Computer Science.
         Some of my projects include AI/machine learning, 

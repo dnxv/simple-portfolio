@@ -7,7 +7,8 @@ function Title({children, id}) {
       className="text-2xl font-bold text-stone-900
       underline underline-offset-8
       decoration-4 
-      mb-5">
+      mb-5
+      dark:text-white">
         {children}
     </h1>
   )
