@@ -30,6 +30,7 @@ function Contact() {
             className="p-2 bg-transparent
             border-2 rounded-md
             focus:outline-none
+            border-stone-500
             dark:border-neutral-600"
           />
           <input 
@@ -39,6 +40,7 @@ function Contact() {
             className="my-2 p-2 bg-transparent
             border-2 rounded-md
             focus:outline-none
+            border-stone-500
             dark:border-neutral-600"
           />
           <textarea 
@@ -49,6 +51,7 @@ function Contact() {
             bg-transparent
             border-2 rounded-md
             focus:outline-none
+            border-stone-500
             dark:border-neutral-600" 
           />
 
